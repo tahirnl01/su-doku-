@@ -1,0 +1,66 @@
+body {
+  background-color: powderblue;
+
+}
+div#büyükkutu1
+{
+  background-color: white;
+}
+div#büyükkutu3
+{
+  background-color: white;
+}
+div#büyükkutu5
+{
+  background-color: white;
+  
+}
+div#büyükkutu7
+{
+  background-color: white;
+}
+div#büyükkutu9
+{
+  background-color: white;
+}
+div#taban {
+  width: 480px;
+  height: 480px;
+  border: 5px solid black;
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box ;
+  
+  margin: auto;
+  
+}
+div.kutu{
+  align: center;
+  width: 120px;
+  height: 120px;
+  border: 2px groove black;
+  display: flex;
+ flex-wrap: wrap;
+  box-sizing: border-box ;
+  margin: auto;
+  background-color: rgb(216, 221, 216);
+  
+  
+}
+div.küçükkutu{
+  width:30px;
+  height:30px;
+  border: 1px solid black;
+  border-style: outset;
+  text-align: center;
+  font-family: Verdana;
+  font-size:  x-large;
+  font-style: bold;
+  margin:auto;
+
+}
+footer{
+  text-align: center;
+}
+
+
